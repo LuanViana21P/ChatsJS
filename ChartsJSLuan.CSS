@@ -1,0 +1,95 @@
+header {
+    padding: 15px 0;
+    background-color: #000000;
+    border-bottom: 2px solid #f4eded;
+  }
+  
+  
+  .container2 {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0px;
+  }
+
+  .container2 h2{
+    font-size: 20px;
+  }
+  
+  .titulo {
+    color: #ffffff;
+    font-size: 14px;
+  }
+
+  
+  
+  .titulo img {
+    margin-right: auto;
+  }
+  
+  .navegacao {
+    width: 350px;
+    color: #ffffff;
+  }
+  
+  .navegacao ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navegacao a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .navegacao ul li {
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .agora {
+    font-weight: bold;
+  }
+
+
+h1{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    font-family: 'Inter', sans-serif;
+}
+
+.container{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin: 100px;
+    width: 630px;
+    
+
+}
+
+
+.grafico{
+    width: 40vw;
+    height: 40vh;
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(./textura-preta_1205-327.webp);
+}
+
+.texto label{
+    display: flex;
+    color: azure;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+}
+
